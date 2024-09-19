@@ -30,6 +30,9 @@ Here’s what I’m working with:
 - I can write code while sipping endless cups of coffee ☕.
 - I’m into clean code and aesthetic UI design.
 
+## GitHub Stats 📊
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegNav33&layout=compact&theme=radical)
+
 ## Let’s Connect!  
 Feel free to check out my projects or say hi!
 
