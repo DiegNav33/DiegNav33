@@ -1,6 +1,6 @@
 # Hello World! 🌍 I'm Diego
 
-👋 Junior Web Developer on a mission to craft smooth user experiences and clean, scalable code. I love turning ideas into reality on the web, from sleek front-end designs to rock-solid back-end logic. Let’s build something amazing together!
+Junior Web Developer on a mission to craft smooth user experiences and clean, scalable code. I love turning ideas into reality on the web, from sleek front-end designs to rock-solid back-end logic. Let’s build something amazing together!
 
 ## Tech Toolbox 🛠️
 
@@ -22,9 +22,9 @@ Here’s what I’m working with:
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## What I’m Currently Up To:
-- 🚀 Building dynamic web apps using Ruby on Rails, Stimulus, and Bootstrap.
-- 💡 Keeping things simple and clean with Stimulus for front-end interactivity.
-- 🌱 Always learning something new.
+- Building dynamic web apps using Ruby on Rails, Stimulus, and Bootstrap.
+- Keeping things simple and clean with Stimulus for front-end interactivity.
+- Always learning something new.
 
 ## Fun Facts:
 - I can write code while sipping endless cups of coffee ☕.
