@@ -1,6 +1,6 @@
 # Hello World! 🌍 I'm Diego
 
-Junior Web Developer on a mission to craft smooth user experiences and clean, scalable code. I love turning ideas into reality on the web, from sleek front-end designs to rock-solid back-end logic. Let’s build something amazing together!
+Web Developer on a mission to craft smooth user experiences and clean, scalable code. I love turning ideas into reality on the web, from sleek front-end designs to rock-solid back-end logic. Let’s build something amazing together!
 
 ## Tech Toolbox 🛠️
 
