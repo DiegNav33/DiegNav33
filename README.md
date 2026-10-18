@@ -22,7 +22,7 @@ Here’s what I’m working with:
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## What I’m Currently Up To:
-- Building dynamic web apps using Ruby on Rails, Stimulus, and Bootstrap.
+- Building dynamic web apps using Ruby on Rails, Stimulus, and Tailwind.
 - Keeping things simple and clean with Stimulus for front-end interactivity.
 - Always learning something new.
 
